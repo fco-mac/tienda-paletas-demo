@@ -1,0 +1,89 @@
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.Form1.resources
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\bin\Debug\TiendaPaletas.exe.config
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\bin\Debug\TiendaPaletas.exe
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\bin\Debug\TiendaPaletas.pdb
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.exe
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.pdb
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.Views.MainWindow.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.MainWindow.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\ProyectoUdeV\Paleteria\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.Categorias.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe.config
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.pdb
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\bin\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormPadreAdmin.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormEmpleado.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormGerente.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Form1.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Properties.Resources.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.MainWindow.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.Categorias.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormPadreAdmin.es-MX.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.GenerateResource.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.exe
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.pdb
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormPadreAdmin.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormEmpleado.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormGerente.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.MainWindow.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.Categorias.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\AppPaleteria_v1.FormPadreAdmin.es-MX.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Punto_de_venta_Paleteria\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csprojResolveAssemblyReference.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe.config
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.pdb
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csprojAssemblyReference.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Form1.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Properties.Resources.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.MainWindow.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.Categorias.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.GenerateResource.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.exe
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.pdb
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.FormPadreAdmin.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.FormEmpleado.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.FormGerente.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-master-03-2021\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.FormPadreAdmin.es-MX.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe.config
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.exe
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\TiendaPaletas.pdb
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\bin\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csprojAssemblyReference.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.FormPadreAdmin.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Properties.Resources.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.Categorias.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.Views.FormPadreAdmin.es-MX.resources
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.GenerateResource.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\es-MX\TiendaPaletas.resources.dll
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.exe
+C:\Users\juan_\Documents\U-DEV\Paletería Marco\tienda-paletas-forgit\tienda-paletas-master-01-2021\tienda-paletas-master\TiendaPaletas\obj\Debug\TiendaPaletas.pdb
